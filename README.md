@@ -1,2 +1,2 @@
 # APM-
-our APM folder to auto instrument on ROR AND React app
+our APM folder to Manual instrument on ROR AND React app
